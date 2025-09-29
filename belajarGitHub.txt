@@ -2,3 +2,4 @@ Tahapan Belajar Belajar :
 1. Belajar Repo
 2. Belajar Committ
 3. Belajar Branch
+4. Belajar Merge
