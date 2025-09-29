@@ -3,3 +3,6 @@ Tahapan Belajar Belajar :
 2. Belajar Committ
 3. Belajar Branch
 4. Belajar Merge
+5. Belajar Config
+6. Belajar Pool
+7. Belajar Posh
